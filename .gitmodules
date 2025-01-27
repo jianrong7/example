@@ -1,4 +1,4 @@
 [submodule "themes/cstate"]
 	path = themes/cstate
-	url = https://github.com/cstate/cstate
+	url = https://github.com/cstate/cstate.git
     branch = v6
